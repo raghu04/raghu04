@@ -4,14 +4,12 @@
 
 <br/>
 
-![Raghu's github stats](https://github-readme-stats.vercel.app/api?username=raghu04&theme=tokyonight&show_icons=true&hide=["issues"])
+![Raghu github stats](https://github-readme-stats.vercel.app/api?username=raghu04&theme=tokyonight&show_icons=true)
 
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghu04&theme=tokyonight&layout=compact)
 
-<br/>
-<br/>
 <br/>
 <br/>
 
