@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Raghu S, a passionate web and mobile developer.
-- 👀 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the user experience, architecture, and code quality of the things I build.
-- 🌱 I’m currently learning React Native Animation, Framer Motion
+👋 Hi, I’m Raghu S, a passionate web and mobile developer.
+👀 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the user experience, architecture, and code quality of the things I build.
+🌱 I’m currently learning React Native Animation, Framer Motion
 
 http://raghujs.vercel.app
 
