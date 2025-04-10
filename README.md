@@ -7,10 +7,6 @@ http://raghujs.vercel.app
 
 <br/>
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghu04&theme=tokyonight&layout=compact)
-
-<br/>
-
 <p><img src="https://komarev.com/ghpvc/?username=raghu04&label=Profile%20Views&color=5F8575&style=flat" alt="Raghu S" /></p>
 
 # 💻 Tech Stack:
